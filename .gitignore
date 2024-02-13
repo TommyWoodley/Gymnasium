@@ -41,3 +41,4 @@ tutorial/*.html
 # PyCharm project files
 .idea
 vizdoom.ini
+gymnasium/envs/venv
